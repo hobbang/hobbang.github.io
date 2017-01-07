@@ -1,0 +1,4 @@
+Sitemap: https://hobbang.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: hobbang.github.io
