@@ -1,2 +1,2 @@
-https://travis-ci.org/hobbang/hobbang.github.io.svg?branch=master
+[https://travis-ci.org/hobbang/hobbang.github.io.svg?branch=master]
 # hobbang.github.io
