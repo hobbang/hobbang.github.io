@@ -26,7 +26,7 @@ SITE_URL = "https://hobbang.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://hobbang.github.io/"
 BLOG_EMAIL = "jun562gmail.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = ""  # (translatable)
 
 # Nikola is multilingual!
 #
